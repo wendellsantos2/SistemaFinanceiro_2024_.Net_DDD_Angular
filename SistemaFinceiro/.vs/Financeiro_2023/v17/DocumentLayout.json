@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|d:\\wemde\\objetos-sistemafinanceiro-2023-parte-3-main\\objetos-sistemafinanceiro-2023-parte-3-main\\sistemafinanceiro_2024_.net_ddd_angular\\infra\\repositorio\\generics\\interfacegenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\generics\\interfacegenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|d:\\wemde\\objetos-sistemafinanceiro-2023-parte-3-main\\objetos-sistemafinanceiro-2023-parte-3-main\\sistemafinanceiro_2024_.net_ddd_angular\\infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACF5DF8-7DCD-4C65-B605-DAD66D3BE66D}|Domain\\Domain.csproj|d:\\wemde\\objetos-sistemafinanceiro-2023-parte-3-main\\objetos-sistemafinanceiro-2023-parte-3-main\\sistemafinanceiro_2024_.net_ddd_angular\\domain\\generics\\interfacegenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACF5DF8-7DCD-4C65-B605-DAD66D3BE66D}|Domain\\Domain.csproj|solutionrelative:domain\\generics\\interfacegenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|d:\\wemde\\objetos-sistemafinanceiro-2023-parte-3-main\\objetos-sistemafinanceiro-2023-parte-3-main\\sistemafinanceiro_2024_.net_ddd_angular\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACF5DF8-7DCD-4C65-B605-DAD66D3BE66D}|Domain\\Domain.csproj|d:\\wemde\\objetos-sistemafinanceiro-2023-parte-3-main\\objetos-sistemafinanceiro-2023-parte-3-main\\sistemafinanceiro_2024_.net_ddd_angular\\domain\\lntefaceservicos\\ldespesasservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACF5DF8-7DCD-4C65-B605-DAD66D3BE66D}|Domain\\Domain.csproj|solutionrelative:domain\\lntefaceservicos\\ldespesasservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|d:\\wemde\\objetos-sistemafinanceiro-2023-parte-3-main\\objetos-sistemafinanceiro-2023-parte-3-main\\sistemafinanceiro_2024_.net_ddd_angular\\entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|solutionrelative:entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceGenerics.cs",
+              "DocumentMoniker": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Repositorio\\Generics\\InterfaceGenerics.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\Generics\\InterfaceGenerics.cs",
+              "ToolTip": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Repositorio\\Generics\\InterfaceGenerics.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\Generics\\InterfaceGenerics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:02:23.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceGenerics.cs",
+              "DocumentMoniker": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\Generics\\InterfaceGenerics.cs",
+              "RelativeDocumentMoniker": "Domain\\Generics\\InterfaceGenerics.cs",
+              "ToolTip": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\Generics\\InterfaceGenerics.cs",
+              "RelativeToolTip": "Domain\\Generics\\InterfaceGenerics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:57:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryGenerics.cs",
+              "DocumentMoniker": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "ToolTip": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:56:25.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lDespesasServico.cs",
+              "DocumentMoniker": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\lntefaceServicos\\lDespesasServico.cs",
+              "RelativeDocumentMoniker": "Domain\\lntefaceServicos\\lDespesasServico.cs",
+              "ToolTip": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\lntefaceServicos\\lDespesasServico.cs",
+              "RelativeToolTip": "Domain\\lntefaceServicos\\lDespesasServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:45:13.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notifica.cs",
+              "DocumentMoniker": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeDocumentMoniker": "Entities\\Notificacoes\\Notifica.cs",
+              "ToolTip": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeToolTip": "Entities\\Notificacoes\\Notifica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:07:26.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
+              "ToolTip": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA9wC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:04:45.202Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
