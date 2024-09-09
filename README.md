@@ -1,0 +1,1 @@
+# SistemaFinanceiro_2024_.Net_DDD_Angular
