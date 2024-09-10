@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Infra.csproj": {}
+    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\Domain.csproj": {
+    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\Domain.csproj",
+        "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\wemde\\.nuget\\packages\\",
-        "outputPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\obj\\",
+        "outputPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wemde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj"
-              },
-              "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\WebApi\\WebApi.csproj": {
-                "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\WebApi\\WebApi.csproj"
+              "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj"
               }
             }
           }
@@ -71,14 +68,14 @@
         }
       }
     },
-    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj": {
+    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj",
+        "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\wemde\\.nuget\\packages\\",
-        "outputPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\obj\\",
+        "outputPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wemde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +134,14 @@
         }
       }
     },
-    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Infra.csproj": {
+    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Infra.csproj",
+        "projectUniqueName": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\Infra.csproj",
+        "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\wemde\\.nuget\\packages\\",
-        "outputPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Infra\\obj\\",
+        "outputPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wemde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,11 +158,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Domain\\Domain.csproj"
+              "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Domain\\Domain.csproj"
               },
-              "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj"
+              "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj"
               }
             }
           }
@@ -185,83 +182,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.3, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\WebApi\\WebApi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\WebApi\\WebApi.csproj",
-        "projectName": "WebApi",
-        "projectPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\wemde\\.nuget\\packages\\",
-        "outputPath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\WebApi\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\wemde\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
               "version": "[7.0.3, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -276,9 +199,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

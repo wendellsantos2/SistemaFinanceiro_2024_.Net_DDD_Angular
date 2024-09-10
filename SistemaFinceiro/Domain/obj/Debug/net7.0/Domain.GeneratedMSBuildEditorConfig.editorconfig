@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = D:\wemde\Objetos-SistemaFinanceiro-2023-Parte-3-main\Objetos-SistemaFinanceiro-2023-Parte-3-main\SistemaFinanceiro_2024_.Net_DDD_Angular\Domain\
+build_property.ProjectDir = D:\wemde\Objetos-SistemaFinanceiro-2023-Parte-3-main\Objetos-SistemaFinanceiro-2023-Parte-3-main\SistemaFinanceiro_2024_.Net_DDD_Angular\SistemaFinceiro\Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

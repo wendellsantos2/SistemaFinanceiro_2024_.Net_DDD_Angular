@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VcEKe9+ZM3z4xgpDVHrl+ECY558wztah+Qii2gEOL1Dq4hIYqkEJWyL2UPYScKpJtzocNDCqUYCed7G19quHbQ==",
+  "dgSpecHash": "EOsyidn1vej3c3C1E5zdzne2MRMp/EeKPhClJrbod5FrVierDUfFcsNxKVBkSmOLgH/LB/iryQovSwFZ0o/NVQ==",
   "success": true,
-  "projectFilePath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\wemde\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\Objetos-SistemaFinanceiro-2023-Parte-3-main\\SistemaFinanceiro_2024_.Net_DDD_Angular\\SistemaFinceiro\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wemde\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
     "C:\\Users\\wemde\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",

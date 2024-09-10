@@ -12,7 +12,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Infra.Repositorio.Generics
 {
-    public class RepositoryGenerics<T> : InterfaceGeneric<T>, IDisposable where T : class
+    public class RepositoryGenerics<T> : InterfaceGeneric<T> , IDisposable where T : class
     {
         private readonly DbContextOptions<ContextBase> _OptionsBuilder;
 
